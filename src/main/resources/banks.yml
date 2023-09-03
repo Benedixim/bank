@@ -1,0 +1,15 @@
+banks:
+  - name: Clever-Bank
+    address: Minsk, Frunze st., 83
+  - name: Alfabank
+    address: Moscow, Lenina st., 12
+  - name: Sberbank
+    address: Minsk, Sovetskaya st., 56
+  - name: Tinkoff Bank
+    address: Saint Petersburg, Nevsky Prospekt, 22
+  - name: Gazprombank
+    address: Moscow, Nametkina st., 12
+  - name: Goldman Sachs Bank
+    address: New York, 200 West St
+
+
